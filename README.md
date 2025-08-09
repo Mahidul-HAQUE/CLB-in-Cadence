@@ -4,13 +4,13 @@ This repository contains the **design, layout, simulation, and analysis** of fun
 
 ---
 
-## 📜 Overview
+## 1. Overview
 The project explores the complete VLSI workflow, from schematic capture to layout generation and performance evaluation, focusing on **Configurable Logic Blocks (CLBs)** and other essential digital components.  
 Simulations were performed for both **combinational** and **sequential** logic to determine key performance metrics such as **setup time**, **critical frequency**, **average energy consumption**, **layout area**, and **Figure of Merit (FOM)**.
 
 ---
 
-## ⚙️ Implemented Components
+## 2. Implemented Components
 - **2-input NAND gate (2IPNAND)**
 - **2-input OR gate (2IPOR)**
 - **2×1 Multiplexer (2×1MUX)**
@@ -23,7 +23,7 @@ Simulations were performed for both **combinational** and **sequential** logic t
 
 ---
 
-## 📊 Key Analyses Performed
+## 3. Key Analyses Performed
 - **D-FF Setup Fixing** – Adjusting delay to achieve correct timing  
 - **Worst-Case Delay Analysis** – Using state transition delay calculations  
 - **Clock-to-Q Delay Measurement** – Determining optimal clock period (~93 ps)  
@@ -34,7 +34,7 @@ Simulations were performed for both **combinational** and **sequential** logic t
 
 ---
 
-## 🛠 Tools & Technologies
+## 4. Tools & Technologies
 - **Cadence Virtuoso** – Schematic capture, layout, simulation  
 - **ADE XL** – Energy and performance measurements  
 - **SKILL IDE** – Automated layout area calculation  
