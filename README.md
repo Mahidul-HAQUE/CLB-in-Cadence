@@ -41,6 +41,6 @@ Simulations were performed for both **combinational** and **sequential** logic t
 
 ---
 
-## 📌 Conclusion
+## 5. Conclusion
 This project provided **hands-on experience** in digital IC design, from conceptual schematics to fully verified layouts, reinforcing both theoretical and practical VLSI design skills.  
 The techniques and analysis workflows presented here are applicable to **research** and **industry-grade semiconductor design**.
